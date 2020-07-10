@@ -3,7 +3,7 @@ Implementation of ConcurrentSoftHashMap.
 
 This is thread-safe Soft reference HashMap.
 
-exmaple of Usage:
+example of Usage:
 
 ```
 import cz.b2b.jcl.util.ConcurrentSoftHashMap;
